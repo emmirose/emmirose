@@ -3,7 +3,7 @@
 - 💻 Currently looking for a job as a Back-End Developper Junior
 - 🥐 French native, fluent in <strong>English </strong>! 
 
-- 🌱 I keep learning Ruby and start to learn React.js !
+- 🌱 I keep learning Ruby and Node.js!
 - 📫 How to reach me : emmarosso.pro@gmail.com
 
 
