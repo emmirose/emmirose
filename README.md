@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Emma
-- 💎 Trained at Le Wagon Lille on Ruby on Rails !
-- 💻 Currently looking for a job as a Back-End Developper Junior
+- 💎 Trained at Le Wagon Lille on Ruby on Rails
+- 🌱 Currently learning Java and Angular at Wild Code School
+- 💻 Looking for my next adventure as a web developer 
 - 🥐 French native, fluent in <strong>English </strong>! 
 
-- 🌱 I keep learning Ruby and JS!
 - 📫 How to reach me : emmarosso.pro@gmail.com
 
 
