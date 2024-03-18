@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Emma
-- 💎 Trained at Le Wagon Lille on Ruby on Rails
-- 🌱 Currently learning Java and Angular at Wild Code School
-- 💻 Looking for my next adventure as a web developer 
+- 🌱 Currently learning Java and Angular at Wild Code School in apprenticeship while ..
+- 💻 Working at Capgemini as a Software Engineer !
 - 🥐 French native, fluent in <strong>English </strong>! 
 
 - 📫 How to reach me : emmarosso.pro@gmail.com
